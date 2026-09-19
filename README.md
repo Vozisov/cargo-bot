@@ -38,12 +38,13 @@ cargo-bot/
 git clone git@github.com:vozisov/cargo-bot.git
 cd cargo-bot
 
-### 2. Создай .env
+### 2. Создай `.env`
 
-Создай файл .env в корне проекта:
+Создай файл `.env` в корне проекта:
 
-BOT_TOKEN=your_bot_token_from_@BotFather
-MANAGER_CHAT_ID=-1001234567890
+```env
+BOT_TOKEN=...
+MANAGER_CHAT_ID=...
 
 Где взять:
 
