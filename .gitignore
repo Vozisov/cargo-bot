@@ -1,0 +1,20 @@
+# Секреты и окружение
+.env
+.env.local
+*.env
+
+# Бинарники
+cargo-bot
+cargo-bot.exe
+*.exe
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
